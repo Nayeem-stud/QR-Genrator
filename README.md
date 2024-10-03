@@ -2,6 +2,10 @@
 
 A simple web application to generate QR codes based on user input. The app is built using HTML, CSS, and JavaScript, and it connects to a third-party API to generate QR codes.
 
+## Demo
+
+You can try the demo of the Text Analyzer Tool at: [Demo Link](https://qr-genrator-nayeem.netlify.app/)
+
 ## Features
 
 - Input any text or URL to generate a QR code.
