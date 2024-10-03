@@ -18,7 +18,7 @@ A simple web application to generate QR codes based on user input. The app is bu
 
 ## API Used
 
-The app uses a free QR code generation API, such as [goqr.me API](https://goqr.me/api/), to convert the user’s input into a QR code.
+The app uses a free QR code generation API, to convert the user’s input into a QR code.
 
 ## Getting Started
 
@@ -31,4 +31,4 @@ The app uses a free QR code generation API, such as [goqr.me API](https://goqr.m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/Nayeem-stud/QR-Genrator.git
